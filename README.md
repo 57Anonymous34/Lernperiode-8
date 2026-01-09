@@ -17,3 +17,10 @@ Heute habe ich mich auf die Suche nach einer neuen programmiersprache gemacht di
 
 
 Link: https://youtu.be/xcmGSRdCXc4?si=akk5joN6vqDdBmBh
+
+
+## 16.01
+- [ ] Die Grundlagen kennenlernen(print, Variabeln etc.)
+- [ ] Im Internet mehr Infos zu Lua nachschauen
+- [ ] EIn kleines Projekt machen(Rezept)
+- [ ] Den geschriebenen Code erklären und dokumentieren( mit Kommentaren)
