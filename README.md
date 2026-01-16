@@ -20,7 +20,24 @@ Link: https://youtu.be/xcmGSRdCXc4?si=akk5joN6vqDdBmBh
 
 
 ## 16.01
-- [ ] Die Grundlagen kennenlernen(print, Variabeln etc.)
-- [ ] Im Internet mehr Infos zu Lua nachschauen
-- [ ] EIn kleines Projekt machen(Rezept)
+- [X] Die Grundlagen kennenlernen(print, Variabeln etc.)
+- [X] Im Internet mehr Infos zu Lua nachschauen
+- [X] EIn kleines Projekt machen
 - [ ] Den geschriebenen Code erklären und dokumentieren( mit Kommentaren)
+
+
+✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich weiter an meinem neuen Projekt angefangen. Ich habe mit bekommen das man Lua auch mit Love2d verknüpfen kann. Mit dieser Verknüpfung ist das viel besser. Ich habe auch endlich ein richtiges Tutorial gefunden. Ich werde ein Spiel programmieren namens "Save the ball".
+
+Neuer Link: https://youtu.be/bxCvdtCdvhU?si=ur1Srn_p4O-F_UY3
+
+
+
+## 23.01
+- [ ] Es soll ein Menu vorhanden sein.
+- [ ] Die Enemies sollten sich nach einer Zeit vergössern, damit es für den Nutzer schwieriger wird.
+- [ ] Der Nutzer sollte ein Replay Button haben. Mit dem er die Runde neustarten kann.
+- [ ] DEr Nutzer sollte ein Beenden Button haben.
+- [ ] Das Spiel sollte ein Points system haben.(z.B. eine Zeit, wie lange der Nutzer überlebt)
+
+✍️ Heute habe ich... (50-100 Wörter)
