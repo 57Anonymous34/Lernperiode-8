@@ -34,10 +34,10 @@ Neuer Link: https://youtu.be/bxCvdtCdvhU?si=ur1Srn_p4O-F_UY3
 
 
 ## 23.01
-- [ ] Es soll ein Menu vorhanden sein.
+- [ ] Es soll ein Menü vorhanden sein.
 - [ ] Die Enemies sollten sich nach einer Zeit vergössern, damit es für den Nutzer schwieriger wird.
 - [ ] Der Nutzer sollte ein Replay Button haben. Mit dem er die Runde neustarten kann.
-- [ ] DEr Nutzer sollte ein Beenden Button haben.
+- [ ] Der Nutzer sollte ein Beenden Button haben.
 - [ ] Das Spiel sollte ein Points system haben.(z.B. eine Zeit, wie lange der Nutzer überlebt)
 
 ✍️ Heute habe ich... (50-100 Wörter)
