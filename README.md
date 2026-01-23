@@ -29,7 +29,7 @@ Link: https://youtu.be/xcmGSRdCXc4?si=akk5joN6vqDdBmBh
 ✍️ Heute habe ich... (50-100 Wörter)
 Heute habe ich weiter an meinem neuen Projekt angefangen. Ich habe mit bekommen das man Lua auch mit Love2d verknüpfen kann. Mit dieser Verknüpfung ist das viel besser. Ich habe auch endlich ein richtiges Tutorial gefunden. Ich werde ein Spiel programmieren namens "Save the ball".
 
-Neuer Link: https://youtu.be/bxCvdtCdvhU?si=ur1Srn_p4O-F_UY3
+Neuer Link: https://youtu.be/mbJlh-7zuqg?si=__cbOyHDdpF7NIBQ
 
 
 
