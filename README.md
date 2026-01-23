@@ -34,10 +34,11 @@ Neuer Link: https://youtu.be/bxCvdtCdvhU?si=ur1Srn_p4O-F_UY3
 
 
 ## 23.01
-- [ ] Es soll ein Menü vorhanden sein.
-- [ ] Die Enemies sollten sich nach einer Zeit vergössern, damit es für den Nutzer schwieriger wird.
-- [ ] Der Nutzer sollte ein Replay Button haben. Mit dem er die Runde neustarten kann.
-- [ ] Der Nutzer sollte ein Beenden Button haben.
-- [ ] Das Spiel sollte ein Points system haben.(z.B. eine Zeit, wie lange der Nutzer überlebt)
+- [X] Es soll ein Menü vorhanden sein.
+- [X] Die Enemies sollten sich nach einer Zeit vergössern, damit es für den Nutzer schwieriger wird.
+- [X] Der Nutzer sollte ein Replay Button haben. Mit dem er die Runde neustarten kann.
+- [X] Der Nutzer sollte ein Beenden Button haben.
+- [X] Das Spiel sollte ein Points system haben.(z.B. eine Zeit, wie lange der Nutzer überlebt)
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute bin ich endlich mit meinem ersten Projekt mit der Programmiersprache Lua fertig geworden. Ich bin sehr zufrieden mit dem Ergebnis. Lua ist eine spannende Programmiersprache.
