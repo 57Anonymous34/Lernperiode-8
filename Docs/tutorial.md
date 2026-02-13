@@ -204,8 +204,12 @@ end
 
 # Result
 
+![Save the Ball gameplay](SaveBall.gif)
 
 
 
 
 # What could go wrong?
+
+If the game does not start, one possible reason is a syntax error in a Lua file.
+Even a small typo can prevent the game from running.
